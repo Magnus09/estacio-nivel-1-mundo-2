@@ -21,7 +21,7 @@
   
   .menu{
     padding: 5px 2px;
-    background-color: rgba(100, 70, 37, 0.795);
+    background-color: rgba(177, 109, 37, 0.795);
   }
   
   .main-list{
@@ -37,7 +37,7 @@
   }
   
   .list-link{
-    color: #ffffff;
+    color: #000000;
     font-style:normal;
     margin: 0 10px;
     text-decoration: none;
@@ -149,7 +149,7 @@
     height: 25px;
     align-items: center;
     justify-content: center;
-    background-color: rgba(73, 48, 21, 0.795);
+    background-color: rgba(177, 109, 37, 0.795);
   }
   
   @media screen and (max-width: 900px) {
